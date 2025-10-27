@@ -93,7 +93,7 @@ main {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 30rem) {
   body {
     height: auto; 
     padding: 2rem;
